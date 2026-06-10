@@ -14,4 +14,11 @@
     "react": "^19.2.7",
     "react-dom": "^19.2.7"
   }
+  {
+  "homepage": "https://prempal88niet.github.io/portfolio",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  }
+}
 }
